@@ -1,0 +1,14 @@
+. {
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: black;
+    color: grey;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
